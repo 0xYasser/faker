@@ -1,0 +1,17 @@
+{
+    "title": "Person",
+    "elements": {
+        "firstName": {
+            "type": "string",
+            "conf": "The person's first name."
+        },
+        "lastName": {
+            "type": "string",
+            "conf": "The person's last name."
+        },
+        "age": {
+            "type": "integer",
+            "conf": 0
+    }
+}
+}
